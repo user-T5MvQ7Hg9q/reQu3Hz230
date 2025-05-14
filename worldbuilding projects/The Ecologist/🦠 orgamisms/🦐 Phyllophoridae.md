@@ -33,11 +33,13 @@ This genus lives in the [[🏞️ Austral tundra|austral tundra]], where it graz
 
 This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] where it's the primary grazer. It's active year-round but less resilient to change due to lower evolutionary pressure. Nevertheless the fossil record shows that the genus can survive an impact winter without going extinct.
 
-| Trait                 | Description                                                             |
-| --------------------- | ----------------------------------------------------------------------- |
-| **Activity cycle**    | Active year-round due to stable equatorial conditions                   |
-| **Phototroph type**   | Thinner distribution of symbionts in skin, optimized for diffused light |
-| **Locomotion**        | Slightly more mobile; may burrow during drought                         |
-| **Feeding**           | Feeds on submerged phototrophs, detritus, and supplements with symbiont |
-| **Reproduction**      | Continuous or seasonal, depending on wet/dry cycles                     |
-| **Survival strategy** | Can estivate during extreme drought or cold snaps                       |
+| Trait                 | Description                                                                 |
+|----------------------|-----------------------------------------------------------------------------|
+| **Activity cycle**    | Active year-round due to stable equatorial conditions                      |
+| **Phototroph type**   | Thinner distribution of symbionts in skin, optimized for diffused light    |
+| **Locomotion**        | Moderately mobile; capable of short bursts and efficient burrowing         |
+| **Feeding**           | Feeds on submerged phototrophs, detritus, and supplements with symbiont    |
+| **Reproduction**      | Continuous or seasonal, depending on wet/dry cycles                        |
+| **Survival strategy** | Can estivate during extreme drought or cold snaps                          |
+| **Body shape**        | Streamlined and narrow, with subtle longitudinal ridges that reinforce the body and aid in burrowing |
+| **Coloration**        | Typically ranges from brownish grey to muddy yellow, blending with sediment and vegetation |
