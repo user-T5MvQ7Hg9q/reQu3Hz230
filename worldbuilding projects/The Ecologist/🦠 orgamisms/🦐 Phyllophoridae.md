@@ -32,18 +32,18 @@ This genus lives in the [[🏞️ Austral tundra|austral tundra]], where it graz
 This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] where it's the primary grazer. It's active year-round but less resilient to change due to lower evolutionary pressure. Nevertheless the fossil record shows that the genus can survive an impact winter without going extinct.
 ### V. vivicaris
 - **Common name:** Common Grazer
-[text here]
+V. vivicaris is the primary grazer in the equatorial wetlands, foraging predominantly on land. It feeds on detritus and the biofilms that accumulate along wetland margins and submerged vegetation. Its streamlined body and efficient burrowing abilities help it navigate these areas in search of food. The species’ muddy yellow coloration blends well with the surrounding vegetation and sediment, providing effective camouflage in its environment.
 ##### Larval stage
-The larval stage of Vivicaris is fully aquatic, active, and lacks symbiosis with C. polymorpha. It has a soft, transparent body with permeable skin, and moves using longitudinal cilia that mirror the ridges found in adults. Larvae are free-swimming and graze on biofilms and microbial mats along sediment surfaces. Metamorphosis is triggered primarily by changes in light levels. During this transformation, the larva undergoes thickening of the dermis, development of adult pigmentation, and formation of tissues capable of hosting symbiotic algae. Symbiont acquisition typically occurs shortly after metamorphosis through contact with environmental cysts or biofilms. Larvae are seasonal, with multiple cohorts possibly overlapping depending on local wet/dry conditions.
+The larval stage of V. vivicaris is fully aquatic, active, and lacks symbiosis with C. polymorpha. It has a soft, transparent body with permeable skin, and moves using longitudinal cilia that mirror the ridges found in adults. Larvae are free-swimming and graze on biofilms and microbial mats along sediment surfaces. Metamorphosis is triggered primarily by changes in light levels. During this transformation, the larva undergoes thickening of the dermis, development of adult pigmentation, and formation of tissues capable of hosting symbiotic algae. Symbiont acquisition typically occurs shortly after metamorphosis through contact with environmental cysts or biofilms. Larvae are seasonal, with multiple cohorts possibly overlapping depending on local wet/dry conditions.
 
-| Trait                 | Description                                                                 |
-|----------------------|-----------------------------------------------------------------------------|
-| **Activity cycle**    | Active year-round due to stable equatorial conditions                      |
-| **Phototroph type**   | Thinner distribution of symbionts in skin, optimized for diffused light    |
-| **Locomotion**        | Moderately mobile; capable of short bursts and efficient burrowing         |
-| **Feeding**           | Feeds on submerged phototrophs, detritus, and supplements with symbiont    |
-| **Reproduction**      | Continuous or seasonal, depending on wet/dry cycles                        |
-| **Survival strategy** | Can estivate during extreme drought or cold snaps                          |
-| **Body shape**        | Streamlined and narrow, with subtle longitudinal ridges that reinforce the body and aid in burrowing |
-| **Coloration**        | Typically ranges from brownish grey to muddy yellow, blending with sediment and vegetation |
+| Trait                 | Description                                                                                                                                       |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Activity cycle**    | Active year-round due to stable equatorial conditions                                                                                             |
+| **Phototroph type**   | Thinner distribution of symbionts in skin, optimized for diffused light                                                                           |
+| **Locomotion**        | Moderately mobile; capable of short bursts and efficient burrowing                                                                                |
+| **Feeding**           | Feeds on detritus and biofilms along wetland margins, supplementing with symbionts after metamorphosis                                            |
+| **Reproduction**      | Seasonal, with overlapping cohorts triggered by wet/dry cycles; life cycle includes a fully aquatic larval stage and metamorphosis to adult form. |
+| **Survival strategy** | Can estivate during extreme drought or cold snaps                                                                                                 |
+| **Body shape**        | Streamlined and narrow, with subtle longitudinal ridges that reinforce the body and aid in burrowing                                              |
+| **Coloration**        | Typically ranges from brownish grey to muddy yellow, blending with sediment and vegetation                                                        |
 
