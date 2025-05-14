@@ -27,8 +27,8 @@ This genus lives in the [[🏞️ Austral tundra|austral tundra]], where it graz
 | **Body shape**        | Broad, flat body with minimal protrusions; shell-like dermal armor                                                                                  |
 | **Coloration**        | Bright gold, derived from dense colonies of endosymbiotic algae                                                                                     |
 
-### Equatorial variant:
-- **Type species:** 
+### Vivicaris
+- **Type species:** *V. vivicaris*
 - **Common name:** *Common Grazer*
 
 This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] where it's the primary grazer. It's active year-round but less resilient to change due to lower evolutionary pressure. Nevertheless the fossil record shows that the genus can survive an impact winter without going extinct.
