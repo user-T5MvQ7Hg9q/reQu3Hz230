@@ -9,8 +9,8 @@ aliases:
   - Aurecaris aureus
   - Common Grazer
 ---
-An animal with slow locomotion, in obligate mutualistic endosymbiosis with [[🌱 Chrysalga polymorpha|Chrysalga polymorpha]]. The algae live within the transparent outer layer of its skin. Can enter a state of suspended animation in harsh conditions to protect itself and C. Polymorpha.
-### Aurecaris
+An animal with slow to moderate locomotion, in mutualistic endosymbiosis with [[🌱 Chrysalga polymorpha|Chrysalga polymorpha]]. The algae live within the transparent outer layer of its skin. Can enter a state of suspended animation in harsh conditions to protect itself and C. Polymorpha.
+## Aurecaris
 - **Type species:** *A. aureus*
 - **Common name:** *Golden Grazer*
 
@@ -27,11 +27,14 @@ This genus lives in the [[🏞️ Austral tundra|austral tundra]], where it graz
 | **Body shape**        | Broad, flat body with minimal protrusions; shell-like dermal armor                                                                                  |
 | **Coloration**        | Bright gold, derived from dense colonies of endosymbiotic algae                                                                                     |
 
-### Vivicaris
+## Vivicaris
 - **Type species:** *V. vivicaris*
-- **Common name:** *Common Grazer*
-
 This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] where it's the primary grazer. It's active year-round but less resilient to change due to lower evolutionary pressure. Nevertheless the fossil record shows that the genus can survive an impact winter without going extinct.
+### V. vivicaris
+- **Common name:** Common Grazer
+[text here]
+##### Larval stage
+The larval stage of Vivicaris is fully aquatic, active, and lacks symbiosis with C. polymorpha. It has a soft, transparent body with permeable skin, and moves using longitudinal cilia that mirror the ridges found in adults. Larvae are free-swimming and graze on biofilms and microbial mats along sediment surfaces. Metamorphosis is triggered primarily by changes in light levels. During this transformation, the larva undergoes thickening of the dermis, development of adult pigmentation, and formation of tissues capable of hosting symbiotic algae. Symbiont acquisition typically occurs shortly after metamorphosis through contact with environmental cysts or biofilms. Larvae are seasonal, with multiple cohorts possibly overlapping depending on local wet/dry conditions.
 
 | Trait                 | Description                                                                 |
 |----------------------|-----------------------------------------------------------------------------|
@@ -43,3 +46,4 @@ This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] wher
 | **Survival strategy** | Can estivate during extreme drought or cold snaps                          |
 | **Body shape**        | Streamlined and narrow, with subtle longitudinal ridges that reinforce the body and aid in burrowing |
 | **Coloration**        | Typically ranges from brownish grey to muddy yellow, blending with sediment and vegetation |
+
