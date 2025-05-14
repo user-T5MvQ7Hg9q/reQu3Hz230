@@ -1,0 +1,1 @@
+**Astrolithophyta:** the general "plant" clade that nearly all common phototrophs belong to. The general coloration is orange to yellow.
