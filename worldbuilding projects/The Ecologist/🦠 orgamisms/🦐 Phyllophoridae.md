@@ -31,7 +31,7 @@ This genus lives in the [[🏞️ Austral tundra|austral tundra]], where it graz
 - **Type species:** *V. vivicaris*
 This genus lives in the [[🏝️ Equatorial wetlands|equatorial wetlands]] where it's the primary grazer. It's active year-round but less resilient to change due to lower evolutionary pressure. Nevertheless the fossil record shows that the genus can survive an impact winter without going extinct.
 ### V. vivicaris
-- **Common name:** Common Grazer
+- **Common name:** *Common Grazer*
 V. vivicaris is the primary grazer in the equatorial wetlands, foraging predominantly on land. It feeds on detritus and the biofilms that accumulate along wetland margins and submerged vegetation. Its streamlined body and efficient burrowing abilities help it navigate these areas in search of food. The species’ muddy yellow coloration blends well with the surrounding vegetation and sediment, providing effective camouflage in its environment.
 ##### Larval stage
 The larval stage of V. vivicaris is fully aquatic, active, and lacks symbiosis with C. polymorpha. It has a soft, transparent body with permeable skin, and moves using longitudinal cilia that mirror the ridges found in adults. Larvae are free-swimming and graze on biofilms and microbial mats along sediment surfaces. Metamorphosis is triggered primarily by changes in light levels. During this transformation, the larva undergoes thickening of the dermis, development of adult pigmentation, and formation of tissues capable of hosting symbiotic algae. Symbiont acquisition typically occurs shortly after metamorphosis through contact with environmental cysts or biofilms. Larvae are seasonal, with multiple cohorts possibly overlapping depending on local wet/dry conditions.
