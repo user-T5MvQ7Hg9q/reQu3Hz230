@@ -41,12 +41,20 @@ The torterer is the King's regent.
 
 The prince is there.
 
+----
 
 It has been a week when the dragon attacked, and everything changed. Carnage and screaming, and the suffering that came after.
 
-The dragon Verrathrax controlling the city by implanting his teeth and claws inside the hearts of everything he captures. Corrupting them into his Dragon Defiler minions.
+The dragon Verrathrax controlling the city by implanting his teeth and claws inside the hearts of everything he captures. Corrupting them into his Dragon Defiler minions. The city slowly sinking into the elemental plane of fire.
 
-You are the last remaining rebellion within the city
+You are the last remaining rebellion within the city. The last Holy People of the Order of Bohamut. Taking refuse inside the catacombs of the city.
+
+In one final desperate act you have tried to vanquish Verrathrax with the Dragon Lance. However, the attack failed, the Dragon Lance and your allies were captured and you have carried your leader, Lady Gabriella, towards the catacombs, a Dragon's Claw stuck inside her heart.
+
+- You must capture the Dragon Lance before Verrathrax will destroy it.
+- Dorrick the Dwarf Paladin has been captured and he knows the location. He will be tortured.
+- Get the Dragon Lance and destroy Verrathrax. He is vain.
+Dragon Defilers arrive.
 
 
 Scenes
@@ -64,10 +72,10 @@ The Council Chamber (Wormtongue like regent.)
 The Treasure Chamber (Where the Dragon Sleeps and holds many treasures. Including the Dragon Lance!)
 
 NPCs
-Dying Paladin - Has Dragon's Claw in his heart. Will be dragged there.
-Regent - Wormtongue
-Torturer - Has butcher knives
-Tortured Paladin - Lady Kema.
+Dying Paladin Lady Gabriella - Has Dragon's Claw in her heart. Will be dragged there.
+Regent Vashnar - Wormtongue
+Torturer Barrdan - Has butcher knives
+Tortured Paladin Dorrick - Dwarf Cleric. Lady Kema.
 Verrathrax Dragon - Smaug. ijdel
 
 Twist of Fate
