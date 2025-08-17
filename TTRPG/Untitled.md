@@ -41,6 +41,21 @@ The torterer is the King's regent.
 
 The prince is there.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ----
 
 It has been a week when the dragon attacked, and everything changed. Carnage and screaming, and the suffering that came after.
@@ -54,6 +69,7 @@ In one final desperate act you have tried to vanquish Verrathrax with the Dragon
 - You must capture the Dragon Lance before Verrathrax will destroy it.
 - Dorrick the Dwarf Paladin has been captured and he knows the location. He will be tortured.
 - Get the Dragon Lance and destroy Verrathrax. He is vain.
+- The King has gone mad but he can be saved, as well as his son. The Dragon will use the prince for his own gains. Prodegy.
 Dragon Defilers arrive.
 
 
@@ -62,25 +78,27 @@ Crossing the city (Pools of Lava. Desperate villagers. 2D10)
 
 
 Locations
-The town lava square
-The Defiled palace (Gardens turned to ash. Surrounded by pools of streaming lava. Bohamut temple defiled.)
+- The town lava square
+- The Defiled palace (Gardens turned to ash. Surrounded by pools of streaming lava. Bohamut temple defiled.)
 
 The King's Palace
-Torture Chamber (Paladins with torturer that wants to hold information out of him.)
-The King's Chambers (Holds the mad king. Also has the prince that is influenced by the Dragon.)
-The Council Chamber (Wormtongue like regent.)
-The Treasure Chamber (Where the Dragon Sleeps and holds many treasures. Including the Dragon Lance!)
+- Torture Chamber (Paladins with torturer that wants to hold information out of him.)
+- The King's Chambers (Holds the mad king. Also has the prince that is influenced by the Dragon.)
+- The Council Chamber (Wormtongue like regent.)
+- The Treasure Chamber (Where the Dragon Sleeps and holds many treasures. Including the Dragon Lance!)
 
 NPCs
-Dying Paladin Lady Gabriella - Has Dragon's Claw in her heart. Will be dragged there.
-Regent Vashnar - Wormtongue
-Torturer Barrdan - Has butcher knives
-Tortured Paladin Dorrick - Dwarf Cleric. Lady Kema.
-Verrathrax Dragon - Smaug. ijdel
+- Dying Paladin Lady Gabriella - Has Dragon's Claw in her heart. Will be dragged there.
+- Regent Vashnar - Wormtongue
+- Torturer Barrdan - Has butcher knives
+- Tortured Paladin Dorrick - Dwarf Cleric. Lady Kema.
+- Verrathrax Dragon - Smaug. ijdel
 
 Twist of Fate
 The city is slowly sinking into the plane of fire.
 
+
+---
 Monsters
 Dragon Defiler
 AC: 14-16
@@ -105,6 +123,8 @@ Legendary attack
 Detect with advantage
 Wing Attack DC 18 Dex Save or Knocked prone.
 
+
+---
 Random Names
 Dragon Defilers
 Male: Morric, Corveth, Vaelrik, Tharros
