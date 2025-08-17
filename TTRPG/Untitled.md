@@ -60,8 +60,31 @@ The Council Chamber (Wormtongue like regent.)
 The Treasure Chamber (Where the Dragon Sleeps and holds many treasures. Including the Dragon Lance!)
 
 NPCs
-
-
+Dying Paladin - Has Dragon's Claw in his heart. Will be dragged there.
+Regent - Wormtongue
+Torturer - Has butcher knives
+Tortured Paladin - Lady Kema.
+Verrathrax Dragon - Smaug. ijdel
 
 Twist of Fate
 The city is slowly sinking into the plane of fire.
+
+Monsters
+Dragon Defiler
+AC: 14-16
+HP: 30-45
+
+Attacks Multi Attack
+Longsword: +5 1D8+3 +1D6 Fire Damage
+Firebreath: 3D6
+
+Torturer
+AC: 15
+HP 50-85
+
+Molten Branding Iron: +6 1D8+4 +1D6 fire damage. DC 14 WIS or frightened
+
+Dragon
+AC 19
+HP: 180
+Breath Weapon (5-6) 12D6 DC 18
