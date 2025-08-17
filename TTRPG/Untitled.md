@@ -42,11 +42,15 @@ The torterer is the King's regent.
 The prince is there.
 
 
+It has been a week when the dragon attacked, and everything changed. Carnage and screaming, and the suffering that came after.
 
+The dragon Verrathrax controlling the city by implanting his teeth and claws inside the hearts of everything he captures. Corrupting them into his Dragon Defiler minions.
+
+You are the last remaining rebellion within the city
 
 
 Scenes
-Crossing the city (Pools of Lava. Desperate villagers.)
+Crossing the city (Pools of Lava. Desperate villagers. 2D10)
 
 
 Locations
@@ -87,4 +91,34 @@ Molten Branding Iron: +6 1D8+4 +1D6 fire damage. DC 14 WIS or frightened
 Dragon
 AC 19
 HP: 180
-Breath Weapon (5-6) 12D6 DC 18
+Breath Weapon (5-6) 12D6 DC 18 for half.
+
+Legendary attack
+Detect with advantage
+Wing Attack DC 18 Dex Save or Knocked prone.
+
+Random Names
+Dragon Defilers
+Male: Morric, Corveth, Vaelrik, Tharros
+Female: Morwyn, Therssa, Lyris
+
+Human
+Male: Brennar, Cedric, Roland, Lucien, Jared
+Female: Briana, Cerys, Elowen, Talia, Maren
+
+Dwarf
+Male: Balrik, Dorn, Kargun
+Female: Astrid, Dagna, Freydis, Hilde
+
+Elves
+Male: Calith, Faelar, Lorion, Sylvaris
+Female: Celeth, Elira, Kaelis
+
+Halflings
+Male: Ander, Bilwick, Darrin
+Female: Bramble, Daisy, Lylee, Marigold
+
+Orcs
+Male: Azrak, Drog, Gorrim, Kragnar
+Female: Durgra, Grashka, Thruna, Moghra, Orliss
+
