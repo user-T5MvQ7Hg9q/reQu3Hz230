@@ -1,0 +1,1 @@
+After the second coming of the mothers of all chromatic dragons to the material planes, and the subsequent war of the dragons between the chromatic and metallic dragons, the world was thrown into chaos. All settlements that aren't enslaved by a chromatic dragon or protected by 
