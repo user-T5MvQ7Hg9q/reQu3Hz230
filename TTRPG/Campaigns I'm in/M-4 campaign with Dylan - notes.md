@@ -1,4 +1,4 @@
-Strange magic pervades Neverwinter Wood. Confounding navigators and obscuring the ancient runes of bigone kingdoms, lost in its depths.
+Strange magic pervades Neverwinter Wood. Confounding navigators and obscuring the ancient runes of bygone kingdoms, lost in its depths.
 
 Dwarven excavation quest. Archeological dig in the southwest.
 Warn them of the imminent white dragon, then return to Townmaster for 50gp.
