@@ -13,4 +13,6 @@ Bring her back to Phandalin for 25gp.
 We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins at the Dwarven dig site and almost got exploded.
 
 ### session 2
-We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We found knockromes. I failed to rizz up the hot gnome girl. Dylan said that any woman is deranged. I tried to rizz up another gnome woman. I don't know if I succeeded but I didn't seem to have failed. I failed to seduce a barrel mimic against my will. We're helping people fix the insanity of a king.
+We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We found knockromes. I failed to rizz up the hot gnome girl. Dylan said that any woman is deranged. I tried to rizz up another gnome woman. I don't know if I succeeded but I didn't seem to have failed. I failed to seduce a barrel mimic against my will. We're helping people fix the insanity of a king. He wasn't insane, just scared.
+
+We're asking if we can get more weapons to fight the dragon, then moving back to the town.
