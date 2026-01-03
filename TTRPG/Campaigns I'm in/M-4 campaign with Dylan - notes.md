@@ -9,8 +9,8 @@ They might have something to defeat dragons. Get whatever you can from them. Wha
 Umbrage hill quest. Local midwife Adabra Gwynn in stone windmill on the side of a hill to the south.
 Bring her back to Phandalin for 25gp.
 
-## session 1
-We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins and almost got exploded.
+### session 1
+We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins at the Dwarven dig site and almost got exploded.
 
-## session 2
-We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde.
+### session 2
+We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We found knockromes. I failed to rizz up the hot gnome girl.
