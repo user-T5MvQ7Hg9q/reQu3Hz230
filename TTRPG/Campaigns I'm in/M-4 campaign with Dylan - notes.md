@@ -13,4 +13,4 @@ Bring her back to Phandalin for 25gp.
 We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins at the Dwarven dig site and almost got exploded.
 
 ### session 2
-We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We found knockromes. I failed to rizz up the hot gnome girl.
+We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We found knockromes. I failed to rizz up the hot gnome girl. Dylan said that any woman is deranged.
