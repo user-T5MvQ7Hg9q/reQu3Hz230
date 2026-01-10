@@ -9,6 +9,8 @@ They might have something to defeat dragons. Get whatever you can from them. Wha
 Umbrage hill quest. Local midwife Adabra Gwynn in stone windmill on the side of a hill to the south.
 Bring her back to Phandalin for 25gp.
 
+Butterskull Ranch quest. Orcs have attacked Butterskull Ranch five miles east of Conyberry along the Triboar. 
+
 ### session 1
 We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins at the Dwarven dig site and almost got exploded.
 
@@ -18,3 +20,8 @@ We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We
 We're asking if we can get more weapons to fight the dragon, then moving back to the town.
 
 ### session 3
+THESE FUCKERS! forgot to ask for more weapons and head back to town first
+
+
+
+21 rations
