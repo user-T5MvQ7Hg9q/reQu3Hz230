@@ -9,7 +9,7 @@ They might have something to defeat dragons. Get whatever you can from them. Wha
 Umbrage hill quest. Local midwife Adabra Gwynn in stone windmill on the side of a hill to the south.
 Bring her back to Phandalin for 25gp.
 
-Butterskull Ranch quest. Orcs have attacked Butterskull Ranch five miles east of Conyberry along the Triboar. 
+Butterskull Ranch quest. Orcs have attacked Butterskull Ranch five miles east of Conyberry along the Triboar Trail! Travel there with haste, assess the damage and help any way you can. Ranch owner Alfonse "Big Al" Kalazorn is a retired sheriff who can reward you for your efforts. If he's dead, return to Townmaster Harbin Wester with proof of  Kalazorn's demise to receive a reward of 100gp.
 
 ### session 1
 We failed to kill or persuade a manticore at Umbrage Hill. We explored old ruins at the Dwarven dig site and almost got exploded.
@@ -20,8 +20,8 @@ We killed orcs after I called them "STUPID! STUPID!" and went to Gnomengarde. We
 We're asking if we can get more weapons to fight the dragon, then moving back to the town.
 
 ### session 3
-THESE FUCKERS! forgot to ask for more weapons and head back to town first
+THESE FUCKERS! forgot to ask for more weapons and head back to town first. On the way to BS ranch. 
 
 
 
-21 rations
+20 rations
