@@ -27,5 +27,7 @@ We're asking if we can get more weapons to fight the dragon, then moving back to
 THESE FUCKERS! forgot to ask for more weapons and head back to town first. On the way to BS ranch, we found a route to the South at the ruined town. We're inspecting the ranch, and are now short resting in the game room.
 
 
+### session 4
+
 
 20 rations
