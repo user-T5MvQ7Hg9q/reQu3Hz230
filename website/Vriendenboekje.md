@@ -4,6 +4,11 @@
 - I can be reached at ___
 - My birthday is at ___ and I am [autofill] years old *
 - I have ___ siblings
+- My favorite color is ___
 - My favorite animal is ___
-- The best book I've read is ___
-- 
+- My favorite book is ___
+- My favorite movie is ___
+- My favorite food is ___
+- I like these things
+	- [multiple answers]
+- Yannick is cool because ___ *
