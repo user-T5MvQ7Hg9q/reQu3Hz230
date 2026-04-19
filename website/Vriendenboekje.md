@@ -11,6 +11,8 @@
 - My favorite food is ___
 - I like these things
 	- [multiple answers]
+- These are the things I don't like:
+	- [multiple answers]
 - Yannick is cool because ___ *
 
 ### Theme specific:
